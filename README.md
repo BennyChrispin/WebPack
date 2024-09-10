@@ -1,23 +1,23 @@
 # Build Tool Showcase
 
-A simple web application that demonstrates the use of various build tools and package managers. This project is a lab activity to showcase the build processes, dependency management, and web development skills using modern tools such as Webpack, Babel, ESLint, and Jest.
+A simple web application designed to demonstrate the use of various build tools and package managers. This project serves as a lab activity to showcase build processes, dependency management, and web development skills utilizing modern tools such as Webpack, Babel, ESLint, and Jest.
 
 ## 🚀 Project Description
 
-The project is a simple web application that displays a list of popular build tools fetched from a JSON file. It demonstrates the use of Webpack as the main build tool, npm for dependency management, Sass for styling, and Jest for testing.
+This project features a web application that displays a list of popular build tools fetched from a JSON file. It highlights the use of Webpack as the primary build tool, npm for dependency management, Sass for styling, and Jest for testing.
 
-### Key Features:
+### Key Features
 
 - Modern ES6+ JavaScript
 - Sass for styling
 - External library (Lodash) for utility functions
-- Development and Production build configurations
+- Development and production build configurations
 - Unit testing with Jest
 - Linting with ESLint
 
 ## 🛠️ Setup Instructions
 
-1. Clone the repository:
+1. Clone the repository: [https://github.com/BennyChrispin/WebPack]
    git clone
    cd build-tool-showcase
 
