@@ -2,7 +2,7 @@ import _ from "lodash";
 import "../styles/main.scss";
 
 document.addEventListener("DOMContentLoaded", () => {
-  fetch("../assets/tools.json")
+  fetch("/assets/tools.json")
     .then((response) => {
       if (!response.ok) {
         throw new Error("Network response was not ok");
