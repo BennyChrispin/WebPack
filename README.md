@@ -1,6 +1,7 @@
 # Build Tool Showcase
 
 A simple web application designed to demonstrate the use of various build tools and package managers. This project serves as a lab activity to showcase build processes, dependency management, and web development skills utilizing modern tools such as Webpack, Babel, ESLint, and Jest.
+hosted live https://webpak.netlify.app
 
 ## 🚀 Project Description
 
